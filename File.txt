@@ -1,3 +1,5 @@
 Created a New File in GitHub
 Modified the File Created in GitHub.
 Changes are made to this Text File.
+stimulated changes from GitHub.
+committed the changes.
